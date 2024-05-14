@@ -1,0 +1,161 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(214, 214, 214);
+  margin: auto;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  padding: 10px;
+  background: #e6e6e6;
+}
+
+nav {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  padding: 7px;
+  box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315);
+}
+
+nav > a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin: 30px;
+}
+
+.imagem1 {
+  padding-top: 20px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+
+footer {
+  max-width: 1290px;
+  margin: auto;
+  background: rgb(102, 102, 102);
+  padding: 5px;
+}
+
+nav a:hover {
+  background-color: #000000;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.sobremim {
+  max-width: 800px;
+  margin: auto;
+  background: #ffffff;
+  padding: 10px 250px 10px 250px;
+  text-align: justify;
+}
+.sobremim > p {
+  font-size: 17px;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.teste, .leide, .ana, .alice {
+  height: 250px;
+  border-radius: 50%;
+  text-align: center;
+  margin: auto;
+  margin-inline: 5px;
+  padding-top: 7px;
+  padding-bottom: 20px 
+}
+
+.teste2 {
+  max-width: 800px;
+  margin: auto;
+  padding: 10px 250px 10px 250px;
+  background: #d42020;
+}
+
+/*CSS DA FORMAÇÃO*/
+.formacao {
+  padding-top: 20px;
+  height: 500px;
+  max-width: 1400px;
+  margin: auto;
+  background-color: #d42020;
+}
+.img {
+float: left;
+padding-right: 30px;
+height: 200px;
+width: 200px;
+margin-left: 20px;
+margin-top: ;
+}
+.conteudo {
+  float: left;
+  height: 250px;
+  width: 800px;
+  background: #e6e6e6;
+}
+.mh {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.ed {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.li {
+  padding-left: 36px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/*CSS DO PORTFÓLIO*/
+.port {
+  margin: auto;
+  height: 250px;
+  width: 800px;
+  background: #e6e6e6;
+}
+.port1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.port2 {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+.port3 {
+  padding-left: 36px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.port4 {
+  color: #000000;
+  text-decoration: none;
+}
+.port6 {
+  padding-top: 10px;
+}
+a:hover {
+  background-color: #f50606;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+
+
